@@ -1,0 +1,13 @@
+java Question4 < Question4numbers.txt
+10
+17
+1
+8
+4
+29
+31
+14
+0
+7
+9
+8

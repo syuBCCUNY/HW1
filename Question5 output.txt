@@ -1,0 +1,29 @@
+Enter x-coordinates for point A:
+0
+Enter y-coordinates for point A:
+0
+Enter x-coordinates for point B:
+1
+Enter y-coordinates for point B:
+1
+Enter x-coordinates for point C:
+0
+Enter y-coordinates for point C:
+5
+The length of the sides are: 1.4142135623730951 5.0 4.123105625617661
+This is a real triangle.
+
+Enter x-coordinates for point A:
+0
+Enter y-coordinates for point A:
+0
+Enter x-coordinates for point B:
+0
+Enter y-coordinates for point B:
+4
+Enter x-coordinates for point C:
+0
+Enter y-coordinates for point C:
+3
+The length of the sides are: 4.0 3.0 1.0
+This is a fake triangle.

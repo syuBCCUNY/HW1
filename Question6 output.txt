@@ -1,0 +1,55 @@
+Enter x-coordinates for the center of circle A:
+0
+Enter y-coordinates for the center of circle A:
+0
+Enter radius for circle A:
+1
+Enter x-coordinates for the center of circle B:
+0
+Enter y-coordinates for the center of circle B:
+0
+Enter radius for circle B:
+3
+The circles are completely within one other.
+
+Enter x-coordinates for the center of circle A:
+0
+Enter y-coordinates for the center of circle A:
+0
+Enter radius for circle A:
+1
+Enter x-coordinates for the center of circle B:
+0
+Enter y-coordinates for the center of circle B:
+3
+Enter radius for circle B:
+1
+The circles are separate from each other.
+
+Enter x-coordinates for the center of circle A:
+0
+Enter y-coordinates for the center of circle A:
+0
+Enter radius for circle A:
+1
+Enter x-coordinates for the center of circle B:
+0
+Enter y-coordinates for the center of circle B:
+1
+Enter radius for circle B:
+1
+The circles are overlapping each other.
+
+Enter x-coordinates for the center of circle A:
+0
+Enter y-coordinates for the center of circle A:
+0
+Enter radius for circle A:
+1
+Enter x-coordinates for the center of circle B:
+0
+Enter y-coordinates for the center of circle B:
+2
+Enter radius for circle B:
+1
+The circles are touching each other.

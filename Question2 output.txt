@@ -1,0 +1,12 @@
+Enter a radius:
+4
+The area of radius 4.0 is 50.26544
+Enter a radius:
+5
+The area of radius 5.0 is 78.53975
+Enter a radius:
+0
+The area of radius 0.0 is 0.0
+Enter a radius:
+1
+The area of radius 1.0 is 3.14159
